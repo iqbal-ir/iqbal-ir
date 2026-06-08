@@ -29,7 +29,6 @@ Professional Software Engineer with over **4 years of experience** in building s
 
 <p align="left">
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/iqbal-ir?cardType=github&theme=tokyonight&fontFamily=&preferLogin=false" alt="Iqbal's GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbal-ir&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ---
